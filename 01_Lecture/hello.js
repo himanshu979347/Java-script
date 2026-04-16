@@ -1,0 +1,1 @@
+console.log("Hello this is second js file from external linking.");
